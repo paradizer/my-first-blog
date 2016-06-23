@@ -1,0 +1,16 @@
+git remote add origin https://github.com/paradizer/my-first-blog.git
+git push -u origin master
+
+
+pythonanywhere
+git clone https://github.com/paradizer/my-first-blog.git
+
+
+В секции "Virtualenv" кликни по красному тексту "Enter the path to a virtualenv" и набери 
+/home/paradize/my-first-blog/myvenv/
+
+
+
+
+
+path = '/home/paradize/my-first-blog' 
